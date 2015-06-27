@@ -120,14 +120,15 @@ a{
 }
 
 .caja1{
-	width: 80%;
+	float: left;
+	width: 60%;
+	margin: 1%;
 }
 
 #columna{
 	float: right;
-	width: 18%;
+	width: 35%;
 	margin: 1%;
 	padding: 1%;
-	border: 1px solid #999999;
-	background: #fffbb9;
+	background: #339DAA;
 }
